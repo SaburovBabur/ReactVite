@@ -1,9 +1,9 @@
-import Counter from './Counter'
+import Bg from './Bg'
 
 function App() {
   return (
     <>
-      <Counter />
+      <Bg />
     </>
   )
 }
