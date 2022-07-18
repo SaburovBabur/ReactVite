@@ -25,6 +25,8 @@ function Bg() {
         style={{ backgroundColor: bgColor }}
         className='w-screen h-screen flex items-center justify-center'
       >
+        <input type='text' name='' id='' />
+
         <button
           onClick={changeColor}
           className='bg-white border border-gray-500 rounded-full text-sm py-3 px-3'
